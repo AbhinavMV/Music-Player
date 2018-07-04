@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyEcho</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="developer">The app is made by Joey Tribbiani\nas part of Intenshala\'s online Android\nTraining Project</string>
+</resources>
